@@ -1,23 +1,83 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowinbox)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowinbox)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  
+  <h1>
+    Hey, I'm <a href="https://wcowin.work/VitePress/">Wcowin</a>!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p align="center">
+    <b>Student | Open-source Technology & Math Enthusiast | Coffee Lover | Poetry Lover | Badminton Player</b>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wcowin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wcowin_" height="30" width="40" /></a>
+
+## 🌱 About Me
+
+* A student :student:
+* Heavy coffee drinker ☕
+* Love tossing technology/Math 💻
+* Read books;lover of poetry;like Haruki Murakami 📖
+* good at badminton :badminton:
+
+
+## 🚀 Currently Learning & Working On
+- 👨🏻‍💻 Try to be an independent developer 
+- 🤔 Exploring new frameworks and open source ideas
+- 🛠️ Building personal website/blog with Mkdocs
+- 💡 Deeply study the interdisciplinary field of mathematics and programming
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/Wcowin_" target="_blank"><img src="https://pic3.zhimg.com/80/v2-aa11d437a377f1a0deac132eb800b306_1440w.webp" width="50" /></a>
+  <a href="https://t.me/Wcowin" target="_blank"><img src="https://pica.zhimg.com/v2-61b4731957dba61e9960436dbd06306a_1440w.jpg" width="50" /></a>
+  <a href="mailto:wangkewen821@gmail.com" target="_blank"><img src="https://pic4.zhimg.com/v2-e996df5a7696237b6f924ace7044cd97_1440w.jpg" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+  
+ <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--
+## Connect with me
+ 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+&nbsp; <a href="https://twitter.com/Wcowin_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/wcowin_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:wangkewen821@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<!-- <p><a href="https://ko-fi.com/Wcowin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Wcowin" /></a></p><br><br> -->
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U5HAO6B)
-<!---
-Wcowin/Wcowin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+&nbsp; <a href="https://twitter.com/Wcowin_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/wcowin_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:wangkewen821@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+-->
 
+## ☕ Support Me
+
+<a href='https://ko-fi.com/U6U5HAO6B' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coffee;I+Love+books;I+Love+Program" alt="Headline;" /> 
+     </div> 
+
+ <table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wcowin&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wcowin&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wcowin&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+![Wcowin's github activity graph](https://raw.githubusercontent.com/Wcowin/Wcowin/output/github-contribution-grid-snake.svg)
